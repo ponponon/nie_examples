@@ -1,0 +1,3 @@
+pynie==0.0.2
+loguru
+minio
